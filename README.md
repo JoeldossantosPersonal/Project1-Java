@@ -1,5 +1,5 @@
 # Project1-Java
-# #Project #1 - Computer Programming II
+Project #1 - Computer Programming II
 
 
 Standard and Poor (S & P) 500 maintains an index of 500 company stocks that represent industries in the United States.  Each stock has a ticker symbol, such as AAL is the ticker symbol for AMERICAN AIRLINES GROUP and ZTS for ZOETIS.  Stocks are tracked each day for the following information:
